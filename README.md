@@ -1,4 +1,4 @@
-Yash Siddhapura
+<h2> Yash Siddhapura </h2>
 <p align="left">
 <a href="mailto:siddhapurayash09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/yash-siddhapura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -7,7 +7,7 @@ Yash Siddhapura
 
 I am an Electronics Engineering student passionate about RTL design and verification. My expertise is in building digital systems from the ground up using Verilog and VHDL.
 
-Skills
+ <h2>Skills </h2> 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -18,7 +18,7 @@ Skills
 <img src="https://img.shields.io/badge/SystemVerilog-0A5499?style=for-the-badge&logo=systemverilog&logoColor=white" alt="SystemVerilog"/>
 </p>
 
-Tools
+<h2> Tools</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Xilinx_Vivado-161616?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
 <img src="https://img.shields.io/badge/Quartus-00285A?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus"/>
@@ -27,7 +27,7 @@ Tools
 <img src="https://img.shields.io/badge/EDA%20Playground-555555?style=for-the-badge&logoColor=white" alt="EDA Playground"/>
 </p>
 
-Most Used Languages
+<h2> Most Used Languages </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhapura-Yash&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Yash's Top Languages"/>
 </p>
