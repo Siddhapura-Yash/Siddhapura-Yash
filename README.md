@@ -29,5 +29,6 @@ I am an Electronics Engineering student passionate about RTL design and verifica
 
 <h2> Most Used Languages </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhapura-Yash&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Yash's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhapura-Yash&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27" alt="Yash's Top Languages"/>
 </p>
+
