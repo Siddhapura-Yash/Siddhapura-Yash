@@ -1,53 +1,31 @@
-# Hi, I'm Yash Siddhapura 👋
-### Aspiring RTL & ASIC Design Engineer | VLSI Enthusiast  
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ED760&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Yash+Siddhapura!;Aspiring+RTL+%26+ASIC+Design+Engineer;VLSI+%7C+Digital+Design+Enthusiast">
+</h1>
 
 ---
 
-### About Me
-- 🎓 **Electronics & Communication Engineering Student** – L.D. College of Engineering.
-- 💻 Focused on **Digital Design, RTL Coding, FPGA, and ASIC Verification**  
-- 🔬 Hands-on with **Verilog, SystemVerilog, ARM CPU design, FSMs, and EDA tools**  
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/siddhapurayash/)  
-
----
-
-### Skills & Tools  
-
-**Hardware Description Languages:**  
+### Skills  
 `Verilog` • `SystemVerilog` • `VHDL`  
-
-**Programming Languages:**  
-`C` • `Python`
-
-**EDA Tools:**  
-`ModelSim` • `Vivado` • `Quartus` • `Proteus` • `EDA Playground`
-
-**Protocols & Concepts:**  
-`AMBA (AXI/AHB)` • `FSM Design` • `Datapath & Controller Architectures`
+`C` • `Python`  
+`ModelSim` • `Vivado` • `Quartus` • `Proteus`
 
 ---
 
-### Projects  
+### Featured Projects  
 
 - **32-bit ARM-like RISC Processor (Verilog)**  
-  *Modular ALU, datapath, control unit, memory interface – supports instructions like ADD, SUB, MOV, CMP, LDR, STR. Verified with ModelSim.*
+  Modular CPU design with ALU, datapath, control unit, memory interface.  
+  Supports core instructions and verified on ModelSim.
 
 - **Verilog-based HCF (GCD) Calculator**  
-  *FSM-controlled datapath with comparator, subtractor, PIPO registers. Fully testbench verified.*
+  FSM-controlled datapath with comparator, subtractor, and PIPO registers.
 
 - **Master-Slave Robotic Arm**  
-  *Slave arm mirrors master arm’s motion using potentiometers and servos. Includes record/replay automation.*
-
----
-
-### GitHub Stats  
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhapura-Yash&show_icons=true&theme=graywhite)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhapura-Yash&layout=compact&theme=graywhite)
+  Slave arm mimics master arm using potentiometers and servos, with record/replay automation.
 
 ---
 
 ### Contact  
-- **Email:** siddhapurayash09@gmail.com  
-- **LinkedIn:** [siddhapurayash](https://www.linkedin.com/in/siddhapurayash/)  
-- **GitHub:** [Siddhapura-Yash](https://github.com/Siddhapura-Yash)
+📧 **Email:** siddhapurayash09@gmail.com  
+🔗 **LinkedIn:** [siddhapurayash](https://www.linkedin.com/in/siddhapurayash/)  
