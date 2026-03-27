@@ -11,7 +11,11 @@
   </a>
 </p>
 
-<p>I am an Electronics Engineering student passionate about RTL design and verification. My expertise is in building digital systems from the ground up using Verilog and VHDL.</p>
+<p>Electronics Engineer working in RTL design and FPGA development.</p>  
+
+<p> I build digital systems using Verilog with hands-on experience in FPGA-based development, protocol design, and hardware debugging. My work includes designing communication protocols, implementing state machines, and validating systems through simulation and testing. </p>
+
+<p> This GitHub showcases my projects and practical work in digital design and hardware engineering. </p>
 
 <h2>Skills</h2>
 <p align="left">
@@ -27,11 +31,12 @@
 
 <h2>Tools</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-161616?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/Quartus-00285A?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus"/>
-  <img src="https://img.shields.io/badge/Modelsim-2496ED?style=for-the-badge&logo=siemens&logoColor=white" alt="Modelsim"/>
-  <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge&logoColor=white" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/EDA%20Playground-555555?style=for-the-badge&logoColor=white" alt="EDA Playground"/>
+<img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
+<img src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus"/>
+<img src="https://img.shields.io/badge/ModelSim-FF6F00?style=for-the-badge&logo=siemens&logoColor=white" alt="Modelsim"/>
+<img src="https://img.shields.io/badge/Proteus-6A1B9A?style=for-the-badge&logoColor=white" alt="Proteus"/>
+<img src="https://img.shields.io/badge/EDA_Playground-2E7D32?style=for-the-badge&logoColor=white" alt="EDA Playground"/>
+<img src="https://img.shields.io/badge/Efinix_Efinity-00897B?style=for-the-badge&logoColor=white" alt="Efinity"/>
 </p>
 
 <h2>Most Used Languages</h2>
